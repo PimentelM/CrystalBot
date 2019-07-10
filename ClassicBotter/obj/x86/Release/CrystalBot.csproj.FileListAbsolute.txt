@@ -1,0 +1,18 @@
+C:\Users\Wolf\Google Drive\Projects\772 Tools\Source Code Release\ClassicBotter\bin\Release\CrystalBot.exe.config
+C:\Users\Wolf\Google Drive\Projects\772 Tools\Source Code Release\ClassicBotter\bin\Release\CrystalBot.exe
+C:\Users\Wolf\Google Drive\Projects\772 Tools\Source Code Release\ClassicBotter\bin\Release\CrystalBot.pdb
+C:\Users\Wolf\Google Drive\Projects\772 Tools\Source Code Release\ClassicBotter\obj\x86\Release\CrystalBot.csprojResolveAssemblyReference.cache
+C:\Users\Wolf\Google Drive\Projects\772 Tools\Source Code Release\ClassicBotter\obj\x86\Release\CrystalBot.Forms.frmBuy.resources
+C:\Users\Wolf\Google Drive\Projects\772 Tools\Source Code Release\ClassicBotter\obj\x86\Release\CrystalBot.Forms.News.resources
+C:\Users\Wolf\Google Drive\Projects\772 Tools\Source Code Release\ClassicBotter\obj\x86\Release\CrystalBot.frmAdmin.resources
+C:\Users\Wolf\Google Drive\Projects\772 Tools\Source Code Release\ClassicBotter\obj\x86\Release\CrystalBot.Forms.frmSelectClient.resources
+C:\Users\Wolf\Google Drive\Projects\772 Tools\Source Code Release\ClassicBotter\obj\x86\Release\CrystalBot.frmMain.resources
+C:\Users\Wolf\Google Drive\Projects\772 Tools\Source Code Release\ClassicBotter\obj\x86\Release\CrystalBot.Forms.frmRecorder.resources
+C:\Users\Wolf\Google Drive\Projects\772 Tools\Source Code Release\ClassicBotter\obj\x86\Release\CrystalBot.Objects.frmLicense.resources
+C:\Users\Wolf\Google Drive\Projects\772 Tools\Source Code Release\ClassicBotter\obj\x86\Release\CrystalBot.Properties.Resources.resources
+C:\Users\Wolf\Google Drive\Projects\772 Tools\Source Code Release\ClassicBotter\obj\x86\Release\CrystalBot.csproj.GenerateResource.Cache
+C:\Users\Wolf\Google Drive\Projects\772 Tools\Source Code Release\ClassicBotter\obj\x86\Release\CrystalBot.exe
+C:\Users\Wolf\Google Drive\Projects\772 Tools\Source Code Release\ClassicBotter\obj\x86\Release\CrystalBot.pdb
+C:\Akashic Field\Projects\# .NET\772 Tools\Source Code Release\ClassicBotter\bin\Release\CrystalBot.exe.config
+C:\Akashic Field\Projects\# .NET\772 Tools\Source Code Release\ClassicBotter\obj\x86\Release\CrystalBot.exe
+C:\Akashic Field\Projects\# .NET\772 Tools\Source Code Release\ClassicBotter\obj\x86\Release\CrystalBot.pdb
