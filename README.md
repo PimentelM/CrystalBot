@@ -1,6 +1,8 @@
 # CrystalBot
 A bot for Tibia based on mouse and keyboard movement simulation which works even while the game is minimised.
 
+![](Image.png)
+
 
 # Introdução
 
