@@ -51,12 +51,14 @@ Provavelmente esse bot ainda funciona nas versões de tibia que possuem os ender
 
 O código de interação com outras janelas usando a API do windows é bastante útil e já utilizei ele para resolver um desafio de CTF chamado iMathze onde era necessário resolver um labirinto e enviar a sequência de teclas para que ele fosse completado em menos de x segundos.
 
-Video: https://www.youtube.com/watch?v=EAIK2Rw8Cv0
-
+* Video: http://www.youtube.com/watch?v=EAIK2Rw8Cv0
 
 ---
 
 Devo o sucesso obtido na criação desse bot ao usuário *Xavious* que disponibilizou o código fonte [desse](https://github.com/PimentelM/ClassicBotter) bot no TPForums à alguns anos atrás. Esse código fonte foi utilizado como base para o desenvolvimento do crystal bot, que em essencia é um Fork da versão 1.0.0 do ClassicBotter.
 
-Referência: https://www.blackdtools.net/showthread.php?51464-7-4-ClassicBotter
+Referências: 
+* https://www.blackdtools.net/showthread.php?51464-7-4-ClassicBotter
+* https://tpforums.org/forum/archive/index.php/t-3889-p-2.html
+
 
