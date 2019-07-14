@@ -56,7 +56,7 @@ Video: https://www.youtube.com/watch?v=EAIK2Rw8Cv0
 
 ---
 
-Devo o sucesso obtido na criação desse bot ao usuário *Xavious*  que o código fonte [desse](https://github.com/PimentelM/ClassicBotter) bot no TPForums à alguns anos atrás, pois esse código foi utilizado como base para o desenvolvimento do crystal bot, que em essencia é um Fork da versão 1.0.0 do ClassicBotter.
+Devo o sucesso obtido na criação desse bot ao usuário *Xavious* que disponibilizou o código fonte [desse](https://github.com/PimentelM/ClassicBotter) bot no TPForums à alguns anos atrás. Esse código fonte foi utilizado como base para o desenvolvimento do crystal bot, que em essencia é um Fork da versão 1.0.0 do ClassicBotter.
 
 Referência: https://www.blackdtools.net/showthread.php?51464-7-4-ClassicBotter
 
