@@ -26,5 +26,29 @@ Com o crystal bot era possível deixar o player caçando criaturas no jogo e col
 Nesse jogo, para acertar runas em outros players ou para usar runas de cura em si mesmo, era necessário clicar com o botão direito na runa e em seguida clicar no alvo. Com esse bot era possível automatizar esse processo.
 
   * Video: https://www.youtube.com/watch?v=v5Z53JHQOiI
+  
+##### Scripting 
+Funcionava de maneira bem simples, usando os mesmos comandos que eram aceitos na tela de hotkeys.
 
+##### Tagging 
+Para nomear pontos específicos da tela e torna-los disponívels aos comandos.
 
+##### Detecção de players na tela
+Era comum deixar o player na porta de casa fazendo runas com o bot ou treianndo alguma coisa de forma automática. Com essa funcionalidade era possível programar o bot para deslogar o player ou entrar em casa quando estivesse fazendo runas e alguém aparecece na tela.
+
+##### SpyDown e SpyUp 
+Era possível ver o que se passava em outros andares do jogo devido ao client do jogo receber informações sobre os outros andares e mante-los na memória ram. Assim, trocando-se o valor da variável que representava o andar atual do player, o jogo automaticamente renderizava o andar escolhido.
+
+##### Outros:
+* Hotkeys
+* Light hack
+* Eat food
+* Caputra de tela e detecção de objetos mesmo com a janela do jogo minimizada.
+
+##### Sobre o estado atual do bot
+
+Provavelmente esse bot ainda funciona nas versões de tibia que possuem os endereços iguais aos que estão registrados no arquivo [Version.cs](https://github.com/PimentelM/CrystalBot/blob/master/ClassicBotter/Addresses/Version.cs) . Por ser um bot que utiliza a simulação de mouse e teclado, muito provavelmente ele funcionaria em qualquer versão do tibia ou até mesmo em outro jogo semelhante como o Zezenia, bastando fazer as modificações necessárias para modelar corretamente as estruturas de dados do jogo e criar a api de interação com esses objetos.
+
+O código de interação com outras janelas usando a API do windows é bastante útil e já utilizei ele para resolver um desafio de CTF chamado iMathze onde era necessário resolver um labirinto e enviar a sequência de teclas para que ele fosse completado em menos de x segundos.
+
+Video: https://www.youtube.com/watch?v=EAIK2Rw8Cv0
